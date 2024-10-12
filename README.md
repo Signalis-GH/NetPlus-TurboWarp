@@ -1,2 +1,2 @@
-This is a networking took for TurboWarp
+This is a networking tool for TurboWarp
 I am working on writing documentation
